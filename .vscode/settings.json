@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d2cb0b04-8a92-4561-933d-b353587e7748/microsoft.web/sites/subscriptions/d2cb0b04-8a92-4561-933d-b353587e7748/resourceGroups/digitablavirtualisgep_group/providers/Microsoft.Web/sites/digitabla",
+    "appService.deploySubpath": "."
+}
